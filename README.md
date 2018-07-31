@@ -7,8 +7,10 @@
 
 <h2 align="center">
 Python Programming - Introduction to Computer Science - exercises.
-<h2>
+</h2>
+
 ---
+
 This repository contains TODO programming tasks, given in every chapter of the book. The purpose of the repository is to practice Python programming language, with git version control, markdown syntax etc.
 
 #### CHAPTER 2
