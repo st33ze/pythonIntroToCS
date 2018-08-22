@@ -11,9 +11,4 @@ Python Programming - Introduction to Computer Science - exercises.
 
 ---
 
-This repository contains TODO programming tasks, given in every chapter of the book. The purpose of the repository is to practice Python programming language, with git version control, markdown syntax etc.
-
-#### CHAPTER 2
-  * plik
-  * plik
-  * plik
+This repository contains chosen TODO programming tasks, given in  the book "Python Programming - Introduction to Computer Science" by John Zelle. Purpose of the repository is to practice Python programming language, with git version control, markdown syntax etc.
