@@ -12,3 +12,6 @@ Python Programming - Introduction to Computer Science - exercises.
 ---
 
 This repository contains chosen TODO programming tasks, given in  the book "Python Programming - Introduction to Computer Science" by John Zelle. Purpose of the repository is to practice Python programming language, with git version control, markdown syntax etc.
+
+* [**Racquetball games simulation**](https://github.com/st33ze/pythonIntroToCS/blob/master/racquetball.py) -
+The program simulates Racquetball games between two players A and B. It prompts for two winning probability values and amount of games to simulate. Then it executes simulation and finally presents the results.
