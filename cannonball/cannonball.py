@@ -9,9 +9,13 @@ from projectile import Projectile
 def main():
     angle, vel, h0, time = getInputs()
     cball = Projectile(angle, vel, h0)
+    maxHeight = h0
     while cball.getY() >= 0:
+        if maxHeight < cball.getY():
+            maxHeight = cball.getY()
         cball.update(time)
     print('Distance traveled: {:0.2f} meters.'.format(cball.getX()))
+    print('Maximum height: {:0.2f} meters.'.format(maxHeight))
 
 
 def getInputs():

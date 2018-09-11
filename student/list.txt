@@ -1,0 +1,6 @@
+Maciek|Taki|50|200
+Maciej|Wróżbita|100|130
+Leeroy|Jenkins|180|100
+mark|test|90|200
+jaina|proudmore|20|100
+marian|wielkopolski|50|50

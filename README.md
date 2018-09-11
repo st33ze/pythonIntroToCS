@@ -15,4 +15,6 @@ This repository contains chosen TODO programming tasks, given in  the book "Pyth
 
 * [**Racquetball games simulation**](https://github.com/st33ze/pythonIntroToCS/blob/master/racquetball/racquetball.py) - The program simulates Racquetball games between two players A and B. It prompts for two winning probability values and amount of games to simulate. Then it executes simulation and finally presents the results.
 * [**Cannonball**](https://github.com/st33ze/pythonIntroToCS/blob/master/cannonball) - Simulation of projectile. Outputs distance the projectile traveled and maximum height, depending on given height, initial velocity, angle and time interval. Simulation
-counts flight near earth surface and ignores wind resistance. 
+counts flight near earth surface and ignores wind resistance.
+* [**Student**](https://github.com/st33ze/pythonIntroToCS/blob/master/student) -
+Student managing tool, that allows to: list students from a file, output students with best GPA score, add grades to existing records, add new students and save list to a file.
