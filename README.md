@@ -18,3 +18,4 @@ This repository contains chosen TODO programming tasks, given in  the book "Pyth
 counts flight near earth surface and ignores wind resistance.
 * [**Student**](https://github.com/st33ze/pythonIntroToCS/blob/master/student) -
 Student managing tool, that allows to: list students from a file, output students with best GPA score, add grades to existing records, add new students and save list to a file.
+* [**Numbers**](https://github.com/st33ze/pythonIntroToCS/blob/master/numbers) - Module with operations on numbers and lists. Contains functions that generate prime numbers based on given range, by using Sieve of Eratosthenes algorithm; check if given number is a prime number; or return list only with natural numbers based on given list.
